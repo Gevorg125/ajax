@@ -1,0 +1,10 @@
+
+.log-in .log-in-box {
+	display: block;
+	margin-top: 100px;
+}
+
+.log-in .log-in-center{
+	margin-left: auto;
+	margin-right: auto;
+}
